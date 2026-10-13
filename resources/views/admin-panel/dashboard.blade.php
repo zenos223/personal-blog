@@ -1,0 +1,19 @@
+@extends('admin-panel.master')
+
+@section('title', 'Dashboard')
+
+@section('content')
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ducimus, repellat provident neque id eum. Laudantium facilis nulla doloremque. Eius ipsum itaque voluptate aperiam numquam quisquam voluptates, eveniet obcaecati in nihil pariatur harum repellendus sit eos iure ea, fuga libero corrupti quia. Eum quos officia culpa atque aut esse quae?</p>    
+
+@endsection
+          

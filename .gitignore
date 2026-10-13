@@ -1,3 +1,11 @@
-*
-!data/
-!.gitignore
+/node_modules
+/public/build
+/public/hot
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Ahoy.yml
+docker-compose.override.yml
+auth.json
